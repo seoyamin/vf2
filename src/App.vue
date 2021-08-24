@@ -2,7 +2,8 @@
   <div id="nav">
     title2 수정
     <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/about">About</router-link> |
+    <router-link to="/xxx">xxx</router-link>
   </div>
   <router-view/>
 </template>
